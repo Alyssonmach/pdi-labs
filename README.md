@@ -1,4 +1,4 @@
-# Laboratórios Definitivos de PDI
+# Laboratórios de Processamento de Imagens Digitais e Inteligência Artificial
 
 Materiais  de laboratório da disciplina Introdução ao Processamento de Imagens Digitais e Visão Computacional (UFCG).
 
